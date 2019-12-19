@@ -1,0 +1,57 @@
+{
+    "name": "Kantox",
+    "description": "<p>Kantox is a multinational fintech company offering FX management solutions. We work hard every day to solve one of the major problems faced by international companies: currency management. We believe that the financial industry, known for its opacity and lack of innovation, needs a radical change. We believe it is time to redefine the industry, adopting more transparent, efficient and fairer models. In the end, it is all about the value we bring to clients. Our expertise, products and solutions allow our customers to manage their currency exposure, build hedging strategies, automate FX transactions and process international payments in a smart way.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/KantoxRetina.png",
+    "tags": [
+        "api provider",
+        "fintech",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/kantox\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Kantox",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/KantoxRetina.png",
+            "humanURL": "http:\/\/www.kantox.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kantox-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.kantox.com\/en\/insights\/news\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.kantox.com\/en\/feed\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.kantox.com\/en\/products\/advanced-solutions\/api\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/kantox"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/kantox"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.kantox.com\/"
+        }
+    ]
+}
