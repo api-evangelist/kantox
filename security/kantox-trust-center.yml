@@ -1,0 +1,28 @@
+generated: '2026-07-19'
+method: searched
+probe: false
+source: https://www.kantox.com/security
+url: https://www.kantox.com/security
+certifications:
+- ISO 27001:2022
+- GDPR
+regulatory:
+- name: FCA authorisation
+  detail: Fully authorised by the UK Financial Conduct Authority (FCA)
+- name: Bank of Spain
+  detail: Regulated by the Bank of Spain to operate across Europe
+- name: DORA
+  detail: Digital Operational Resilience Act & FCA operational resilience alignment
+practices:
+- Regular external penetration testing by an external audit firm
+- Strict vulnerability review and patching program
+- Daily automated data backups, immutable snapshots, geographically distributed backups
+- EU-hosted infrastructure (Ireland & Germany), 99.9% availability target
+contacts:
+- security@kantox.com
+- gdpr@kantox.com
+evidence:
+- source: https://www.kantox.com/security
+  keywords: [iso 27001:2022, gdpr, dora, fca, penetration testing, trust]
+notes: Kantox is part of BNP Paribas. Certifications and regulatory posture published
+  on the public /security page; no dedicated trust.kantox.com subdomain or security.txt.
