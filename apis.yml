@@ -29,7 +29,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://cdn.prod.website-files.com/64edc13853bc14e5e1b0aa0b/64edc30eb8df7487049d6bbb_webclip.png
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
